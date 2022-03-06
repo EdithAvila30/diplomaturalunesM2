@@ -1,0 +1,55 @@
+h1 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursiva;
+    background-color: rgb(174, 248, 77);
+    color: rgb(31, 30, 41);
+}
+
+h3 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+p {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#resaltar {
+    color: black;
+    font-style: normal;
+}
+
+#Perfil {
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(100, 145, 215, 0.8463760504201681) 35%, rgba(0, 212, 255, 1) 100%);
+    text-align: center;
+    border: 5px solid blue);
+    padding: 30PX;
+    border-radius: 20px 0;
+}
+
+#Perfil:hover {
+    background-color: rgb(192, 189, 34);
+    cursor: pointer;
+}
+
+#Perfil {
+    background-color: yellow;
+    column-count: 2;
+    /*cantidad de columnas*/
+    column-gap: 50px;
+    column-rule: 2px solid blue;
+}
