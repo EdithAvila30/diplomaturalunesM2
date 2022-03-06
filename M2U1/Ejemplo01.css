@@ -1,0 +1,19 @@
+.rojo {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(218, 25, 12, 0.5858718487394958) 9%, rgba(213, 89, 83, 1) 35%, rgba(233, 30, 17, 1) 68%, rgba(255, 0, 0, 1) 100%);
+    width: 300px;
+    height: 400px;
+    margin-bottom: 50px;
+    box-shadow: 15px 10px 15px 10px;
+    border-radius: 30px 0px;
+}
+
+.azul {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(100, 145, 215, 0.8463760504201681) 35%, rgba(0, 212, 255, 1) 100%);
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}

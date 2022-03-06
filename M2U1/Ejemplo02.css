@@ -1,0 +1,7 @@
+.textos {
+    background-color: yellow;
+    column-count: 5;
+    /*cantidad de columnas*/
+    column-gap: 50px;
+    column-rule: 2px solid blue;
+}

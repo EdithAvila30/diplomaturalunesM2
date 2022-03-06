@@ -1,0 +1,23 @@
+/*familia de fuentes: 'Dancing Script', cursiva;
+familia de fuentes: 'Titillium Web', sans-serif;*/
+
+h1 {
+    color: black;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h2 {
+    color: blue;
+    font-family: 'Dancing Script', cursiva;
+}
+
+p {
+    color: crimson;
+    font-family: 'Dancing Script', cursiva;
+    ;
+}
+
+.megafono {
+    color: blue;
+    font-size: 400px;
+}
